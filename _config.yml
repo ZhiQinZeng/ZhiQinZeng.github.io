@@ -107,3 +107,6 @@ deploy:
   type: 'git'
   repo: 'https://github.com/ZhiQinZeng/ZhiQinZeng.github.io'
   branch: main
+
+sitemap:
+  path: sitemap.xml
